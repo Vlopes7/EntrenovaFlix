@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SPACELINE-API/EntrenovaFlix-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SPACELINE-API/EntrenovaFlix-Backend.git
