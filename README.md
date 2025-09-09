@@ -57,8 +57,27 @@ A plataforma proporciona análise de engajamento e facilita a distribuição de 
 ## 🐙 Backlog do Produto
 <a id="backlog"></a>
 
-| Rank | Prioridade | User Story | Sprint | Status |
-| :--: | :--------: | :----------------------------------------------------------: | :----: | :----: |
+| Rank | Prioridade | User Story | Story Points | Sprint | Status |
+| ---- | ---------- | ---------- | ------------ | ------ | ------ |
+| 1 | Alta | Como gerente de RH, quero ter acesso a relatórios precisos que apontem as necessidades, oportunidades, e sugestões de melhoria para a minha empresa para que eu possa tomar decisões estratégicas mais assertivas. | 5 | 1 | Em andamento |
+| 2 | Alta | Como gerente de RH, quero gerar uma trilha de conteúdos personalizada para minha equipe receber treinamento corporativo conforme as necessidades da minha empresa. | 8 | 1 | Em andamento |
+| 3 | Alta | Como gerente de RH, quero que o sistema permita realizar a compra do plano de trilhas de forma prática para garantir o acesso da minha equipe ao conteúdo das trilhas. | 5 | 1 | Em andamento |
+| 4 | Alta | Como colaborador, quero poder realizar o login para salvar minhas informações pessoais e o meu progresso nas atividades, para ter acesso a métricas que demonstrem a minha evolução pessoal. | 3 | 1 | Em andamento |
+| 5 | Alta | Como colaborador, quero ter acesso aos materiais educativos que a plataforma disponibilizar para melhorar o meu desempenho na empresa. | 8 | 1 | Em andamento |
+| 6 | Média | Como colaborador, quero ter acesso a métricas que indiquem o meu progresso individual para entender quais habilidades e conhecimentos desenvolvi com as aulas. | 3 | 1 | Em andamento |
+| 7 | Baixa | Como colaborador, quero um espaço de interação com outros usuários para manter uma boa comunicação com o time. | 8 | 1 | Em andamento |
+| 8 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
+| 9 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 5 | 2 | Pendente |
+| 10 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
+| 11 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano premium para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
+| 12 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano diamante para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
+| 13 | Média | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 8 | 2 | Pendente |
+| 14 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Pendente |
+| 15 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Pendente |
+| 16 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Pendente |
+| 17 | Média | Como administrador da EntreNova, quero que o sistema troque as trilhas de forma automática conforme o calendário para manter os conteúdos atualizados. | 5 | 3 | Pendente |
+| 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
+| 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
 
 
 
