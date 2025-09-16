@@ -1,58 +1,30 @@
 # 🚀 SpaceLine - API ADS 3º Semestre
+# EntrenovaFlix
 
-<p align="center">
-  Plataforma Web de Acompanhamento de Conteúdos Corporativos e Streaming Educacional
-</p>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="center" width="335">
+
+## Spaceline
+</div>
 
 <p align = "center">
   <a href = "#desafio"> Desafio </a>  |   
-  <a href = "#mvp"> MVP </a>  |
-  <a href ="#prototipo"> Protótipo </a>  | 
-  <a href = "#demo"> Demonstração </a>  |
-  <a href = "#sprint"> Sprints </a> |
-  <a href = "#backlog"> Backlog do Produto </a>  | 
-  <a href = "#equipe"> Equipe </a>  |
-   <a href = "#cliente"> Cliente </a>  |     
-  <a href = "#docentes"> Docentes </a>
+  <a href = "#mvp"> Backlog do produto </a>  |
+  <a href = "#cronograma"> Cronograma das sprints |
+  <a href = "#backlog"> Descrição das sprints </a>  |
+  <a href ="#prototipo"> Tecnologias </a>  | 
+  <a href = "#demo"> DoR </a>  |
+  <a href = "#sprint"> DoD </a> |
+  <a href = "#cliente"> Equipe </a>       
 </p>
 
-# Tecnologias
-<div align="center">
-  <img   src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,jira,excel,ollama,javascript,typescript,html,googlecolab,react,nodejs,ngrok,gemini&perline=9" />
-</div>
-
+___
 
 ## 📃 Desafio
 <a id="desafio"></a>
+O objetivo do projeto é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
 
-O objetivo do projeto **SpaceLine** é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
-
-
-
-## 🚲 MVP (Minimal Viable Product)
-<a id="mvp"></a>
-
-**SpaceLine** permite que **gestores e colaboradores** acessem conteúdos corporativos, treinamentos e materiais multimídia de forma organizada, interativa e responsiva.  
-A plataforma proporciona análise de engajamento e facilita a distribuição de conteúdos educativos dentro do ambiente corporativo.
-
-
-
-## 📼 Demonstrações
-
-################
-
-## 📊 Protótipo
-
-#################
-
-## 📅 Sprints
-<a id="sprint"></a>
-
-🔜 **SPRINT 1:** Ainda não iniciada <br>
-🔜 **SPRINT 2:** Ainda não iniciada <br>
-🔜 **SPRINT 3:** Ainda não iniciada 
-
-
+___
 
 ## 🐙 Backlog do Produto
 <a id="backlog"></a>
@@ -79,8 +51,42 @@ A plataforma proporciona análise de engajamento e facilita a distribuição de 
 | 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
 | 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
 
+___
 
+## 📅 Sprints
+<a id="sprint"></a>
 
+| Sprint | Período |  Documentação | Demonstração da entrega |
+| ---- | ------ | ---------- | ---------- |
+| 1 | 08/09 - 28/09 | |  |
+| 2 | 06/10 - 26/10 | |  |
+| 3 | 03/11 - 23/11 | |  |
+
+___
+
+## ⚙️ Tecnologias
+<div align="left">
+  <img   src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,jira,excel,ollama,javascript,typescript,html,googlecolab,react,nodejs,ngrok,gemini&perline=9" />
+</div>
+
+___
+
+## 📋 DoR
+
+- Protótipo desenvolvido no Figma
+- Capacidade técnica avaliada
+- Tarefa estimada e priorizada
+- Requisitos claros e compreendidos
+
+___
+
+## ✅ DoD
+
+- Código completo e revisado
+- Documentação atualizada
+- Validação do Product Owner
+- Testes unitários executados e aprovados
+___
 
 ## 🫧 SpaceTeam
 <a id="equipe"></a>
@@ -95,21 +101,3 @@ A plataforma proporciona análise de engajamento e facilita a distribuição de 
 | Team Member    | Vinícius Lopes                     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7) |
 | Team Member    | João Álvaro Oliveira Silva         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
 | Team Member    | Pablo Rafael                       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709) |
-
-
-
-## 💫 Cliente
-<a id="cliente"></a>
-
-| Cliente | Empresa |
-| :-----: | :---: |
-| Marcella Arnulf | Entrenova|
-
-
-
-## 🏫 Docentes
-<a id="docentes"></a>
-
-| P² | M² |
-| :-------------: | :-------------: |
-| Prof° Fernando Massanori | Prof° Cláudio Lima |
