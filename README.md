@@ -9,13 +9,13 @@
 
 <p align = "center">
   <a href = "#desafio"> Desafio </a>  |   
-  <a href = "#mvp"> Backlog do produto </a>  |
+  <a href = "#backlog"> Backlog do produto </a>  |
   <a href = "#cronograma"> Cronograma das sprints |
-  <a href = "#backlog"> Descrição das sprints </a>  |
-  <a href ="#prototipo"> Tecnologias </a>  | 
-  <a href = "#demo"> DoR </a>  |
-  <a href = "#sprint"> DoD </a> |
-  <a href = "#cliente"> Equipe </a>       
+  <a href = "#sprints"> Descrição das sprints </a>  |
+  <a href = "#tecnologias"> Tecnologias </a>  | 
+  <a href = "#dor"> DoR </a>  |
+  <a href = "#dod"> DoD </a> |
+  <a href = "#equipe"> Equipe </a>       
 </p>
 
 ___
@@ -72,6 +72,7 @@ ___
 ___
 
 ## 📋 DoR
+<a id="dor"></a>
 
 - Protótipo desenvolvido no Figma
 - Capacidade técnica avaliada
@@ -81,6 +82,7 @@ ___
 ___
 
 ## ✅ DoD
+<a id="dod"></a>
 
 - Código completo e revisado
 - Documentação atualizada
