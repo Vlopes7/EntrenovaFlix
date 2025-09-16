@@ -11,7 +11,7 @@
   <a href = "#desafio"> Desafio </a>  |   
   <a href = "#backlog"> Backlog do produto </a>  |
   <a href = "#cronograma"> Cronograma das sprints |
-  <a href = "#sprints"> Descrição das sprints </a>  |
+  <a href = "#sprint"> Descrição das sprints </a>  |
   <a href = "#tecnologias"> Tecnologias </a>  | 
   <a href = "#dor"> DoR </a>  |
   <a href = "#dod"> DoD </a> |
@@ -65,6 +65,7 @@ ___
 ___
 
 ## ⚙️ Tecnologias
+<a id="tecnologias"></a>
 <div align="left">
   <img   src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,jira,excel,ollama,javascript,typescript,html,googlecolab,react,nodejs,ngrok,gemini&perline=9" />
 </div>
