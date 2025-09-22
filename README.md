@@ -60,9 +60,9 @@ ___
 
 | Sprint | Período |  Documentação | Demonstração da entrega |
 | ---- | ------ | ---------- | ---------- |
-| 1 | 08/09 - 28/09 | |  |
-| 2 | 06/10 - 26/10 | |  |
-| 3 | 03/11 - 23/11 | |  |
+| 1 | 08/09 - 28/09 | [Documentação sprint 1](docs/sprints/sprint-1) | |
+| 2 | 06/10 - 26/10 | [Documentação sprint 2](docs/sprints/sprint-2) |  |
+| 3 | 03/11 - 23/11 | [Documentação sprint 3](docs/sprints/sprint-3) |  |
 
 ___
 
