@@ -8,10 +8,11 @@
 </div>
 
 <p align = "center">
-  <a href = "#desafio"> Desafio </a>  |   
+  <a href = "#desafio"> Desafio </a>  |  
+  <a href = "#tecnologias"> Tecnologias </a>  | 
+  <a href = "#prototipo"> Protótipo </a> |
   <a href = "#backlog"> Backlog do produto </a>  |
   <a href = "#sprint"> Descrição das sprints </a>  |
-  <a href = "#tecnologias"> Tecnologias </a>  | 
   <a href = "#dor"> DoR </a>  |
   <a href = "#dod"> DoD </a> |
   <a href = "#equipe"> Equipe </a>       
@@ -26,6 +27,33 @@ ___
 O objetivo do projeto é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
 
 ___
+
+## ⚙️ Tecnologias
+<a id="tecnologias"></a>
+<div align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,django,postgresql,supabase,jira,excel,typescript,html,react,nodejs,gemini&perline=9" />
+</div>
+
+___
+
+## 📷 Protótipo do Programa 
+<a id="prototipo"></a>
+<div align="center">
+<table>
+  <tr>
+    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Landing%20page%20-%20Home.jpeg"> </th>
+    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Login.jpeg"> </th>
+    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Tela%20de%20pagamento.jpeg"> </th>
+  </tr>
+  <tr>
+    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Tela%20Trilhas%20-%20Colaboradores.png"> </td>
+    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Fórum%20-%20Comentários.jpeg"> </td>
+    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Dashboard%20Colaboradores.jpeg"> </td>
+  </tr>
+</table>
+</div>
+
+____
 
 ## 🐙 Backlog do Produto
 <a id="backlog"></a>
@@ -52,7 +80,7 @@ ___
 | 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
 | 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
 
-___
+____
 
 ## 📅 Sprints
 <a id="sprint"></a>
@@ -62,14 +90,6 @@ ___
 | 1 | 08/09 - 28/09 | [Documentação sprint 1](docs/sprints/sprint-1) | 
 | 2 | 06/10 - 26/10 | [Documentação sprint 2](docs/sprints/sprint-2) |  
 | 3 | 03/11 - 23/11 | [Documentação sprint 3](docs/sprints/sprint-3) |  
-
-___
-
-## ⚙️ Tecnologias
-<a id="tecnologias"></a>
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,django,postgresql,supabase,jira,excel,typescript,html,react,nodejs,gemini&perline=9" />
-</div>
 
 ___
 
