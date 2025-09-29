@@ -18,7 +18,7 @@
   <a href = "#equipe"> Equipe </a>       
 </p>
 
-> Status da Sprint: Em andamento 🚲
+> Status do projeto: Em andamento 🚲
 
 ___
 
@@ -33,13 +33,13 @@ ___
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Status |
 | ---- | ---------- | ---------- | ------------ | ------ | ------ |
-| 1 | Alta | Como gerente de RH, quero ter acesso a relatórios precisos que apontem as necessidades, oportunidades, e sugestões de melhoria para a minha empresa para que eu possa tomar decisões estratégicas mais assertivas. | 5 | 1 | Em andamento |
-| 2 | Alta | Como gerente de RH, quero gerar uma trilha de conteúdos personalizada para minha equipe receber treinamento corporativo conforme as necessidades da minha empresa. | 8 | 1 | Em andamento |
-| 3 | Alta | Como gerente de RH, quero que o sistema permita realizar a compra do plano de trilhas de forma prática para garantir o acesso da minha equipe ao conteúdo das trilhas. | 5 | 1 | Em andamento |
-| 4 | Alta | Como colaborador, quero poder realizar o login para salvar minhas informações pessoais e o meu progresso nas atividades, para ter acesso a métricas que demonstrem a minha evolução pessoal. | 3 | 1 | Em andamento |
-| 5 | Alta | Como colaborador, quero ter acesso aos materiais educativos que a plataforma disponibilizar para melhorar o meu desempenho na empresa. | 8 | 1 | Em andamento |
-| 6 | Média | Como colaborador, quero ter acesso a métricas que indiquem o meu progresso individual para entender quais habilidades e conhecimentos desenvolvi com as aulas. | 3 | 1 | Em andamento |
-| 7 | Baixa | Como colaborador, quero um espaço de interação com outros usuários para manter uma boa comunicação com o time. | 8 | 1 | Em andamento |
+| 1 | Alta | Como gerente de RH, quero ter acesso a relatórios precisos que apontem as necessidades, oportunidades, e sugestões de melhoria para a minha empresa para que eu possa tomar decisões estratégicas mais assertivas. | 5 | 1 | Concluído |
+| 2 | Alta | Como gerente de RH, quero gerar uma trilha de conteúdos personalizada para minha equipe receber treinamento corporativo conforme as necessidades da minha empresa. | 8 | 1 | Concluído |
+| 3 | Alta | Como gerente de RH, quero que o sistema permita realizar a compra do plano de trilhas de forma prática para garantir o acesso da minha equipe ao conteúdo das trilhas. | 5 | 1 | Concluído |
+| 4 | Alta | Como colaborador, quero poder realizar o login para salvar minhas informações pessoais e o meu progresso nas atividades, para ter acesso a métricas que demonstrem a minha evolução pessoal. | 3 | 1 | Concluído |
+| 5 | Alta | Como colaborador, quero ter acesso aos materiais educativos que a plataforma disponibilizar para melhorar o meu desempenho na empresa. | 8 | 1 | Concluído |
+| 6 | Média | Como colaborador, quero ter acesso a métricas que indiquem o meu progresso individual para entender quais habilidades e conhecimentos desenvolvi com as aulas. | 3 | 1 | Concluído |
+| 7 | Baixa | Como colaborador, quero um espaço de interação com outros usuários para manter uma boa comunicação com o time. | 8 | 1 | Concluído |
 | 8 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
 | 9 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 5 | 2 | Pendente |
 | 10 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
@@ -58,11 +58,11 @@ ___
 ## 📅 Sprints
 <a id="sprint"></a>
 
-| Sprint | Período |  Documentação | Demonstração da entrega |
-| ---- | ------ | ---------- | ---------- |
-| 1 | 08/09 - 28/09 | [Documentação sprint 1](docs/sprints/sprint-1) | |
-| 2 | 06/10 - 26/10 | [Documentação sprint 2](docs/sprints/sprint-2) |  |
-| 3 | 03/11 - 23/11 | [Documentação sprint 3](docs/sprints/sprint-3) |  |
+| Sprint | Período |  Documentação |
+| ---- | ------ | ---------- |
+| 1 | 08/09 - 28/09 | [Documentação sprint 1](docs/sprints/sprint-1) | 
+| 2 | 06/10 - 26/10 | [Documentação sprint 2](docs/sprints/sprint-2) |  
+| 3 | 03/11 - 23/11 | [Documentação sprint 3](docs/sprints/sprint-3) |  
 
 ___
 
