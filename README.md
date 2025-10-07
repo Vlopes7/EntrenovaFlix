@@ -1,116 +1,68 @@
 # 🚀 SpaceLine - API ADS 3º Semestre
-# EntrenovaFlix
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="center" width="335">
-
-## Spaceline
-</div>
-
-<p align = "center">
-  <a href = "#desafio"> Desafio </a>  |  
-  <a href = "#tecnologias"> Tecnologias </a>  | 
-  <a href = "#prototipo"> Protótipo </a> |
-  <a href = "#backlog"> Backlog do produto </a>  |
-  <a href = "#sprint"> Descrição das sprints </a>  |
-  <a href = "#dor"> DoR </a>  |
-  <a href = "#dod"> DoD </a> |
-  <a href = "#equipe"> Equipe </a>       
+<p align="center">
+  Plataforma Web de Acompanhamento de Conteúdos Corporativos e Streaming Educacional
 </p>
 
-> Status do projeto: Em andamento 🚲
+<p align = "center">
+  <a href = "#desafio"> Desafio </a>  |   
+  <a href = "#mvp"> MVP </a>  |
+  <a href ="#prototipo"> Protótipo </a>  | 
+  <a href = "#demo"> Demonstração </a>  |
+  <a href = "#sprint"> Sprints </a> |
+  <a href = "#metodologia"> Metodologia </a> |  
+  <a href = "#backlog"> Backlog do Produto </a>  | 
+  <a href = "#equipe"> Equipe </a>  |
+   <a href = "#cliente"> Cliente </a>  |     
+  <a href = "#docentes"> Docentes </a>
+</p>
 
-___
+# Tecnologias
+<div align="center">
+  <img   src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,jira,excel,ollama,javascript,typescript,html,googlecolab,react,nodejs,ngrok,gemini&perline=9" />
+</div>
+
 
 ## 📃 Desafio
 <a id="desafio"></a>
-O objetivo do projeto é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
 
-___
+O objetivo do projeto **SpaceLine** é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
 
-## ⚙️ Tecnologias
-<a id="tecnologias"></a>
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,django,postgresql,supabase,jira,excel,typescript,html,react,nodejs,gemini&perline=9" />
-</div>
 
-___
 
-## 📷 Protótipo do Programa 
-<a id="prototipo"></a>
-<div align="center">
-<table>
-  <tr>
-    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Landing%20page%20-%20Home.jpeg"> </th>
-    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Login.jpeg"> </th>
-    <th> <img src = "https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Tela%20de%20pagamento.jpeg"> </th>
-  </tr>
-  <tr>
-    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Tela%20Trilhas%20-%20Colaboradores.png"> </td>
-    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Fórum%20-%20Comentários.jpeg"> </td>
-    <td> <img src ="https://github.com/SPACELINE-API/EntrenovaFlix/blob/API-Home/docs/assets/protótipo-figma/Dashboard%20Colaboradores.jpeg"> </td>
-  </tr>
-</table>
-</div>
+## 🚲 MVP (Minimal Viable Product)
+<a id="mvp"></a>
 
-____
+**SpaceLine** permite que **gestores e colaboradores** acessem conteúdos corporativos, treinamentos e materiais multimídia de forma organizada, interativa e responsiva.  
+A plataforma proporciona análise de engajamento e facilita a distribuição de conteúdos educativos dentro do ambiente corporativo.
 
-## 🐙 Backlog do Produto
-<a id="backlog"></a>
 
-| Rank | Prioridade | User Story | Story Points | Sprint | Status |
-| ---- | ---------- | ---------- | ------------ | ------ | ------ |
-| 1 | Alta | Como gerente de RH, quero ter acesso a relatórios precisos que apontem as necessidades, oportunidades, e sugestões de melhoria para a minha empresa para que eu possa tomar decisões estratégicas mais assertivas. | 5 | 1 | Concluído |
-| 2 | Alta | Como gerente de RH, quero gerar uma trilha de conteúdos personalizada para minha equipe receber treinamento corporativo conforme as necessidades da minha empresa. | 8 | 1 | Concluído |
-| 3 | Alta | Como gerente de RH, quero que o sistema permita realizar a compra do plano de trilhas de forma prática para garantir o acesso da minha equipe ao conteúdo das trilhas. | 5 | 1 | Concluído |
-| 4 | Alta | Como colaborador, quero poder realizar o login para salvar minhas informações pessoais e o meu progresso nas atividades, para ter acesso a métricas que demonstrem a minha evolução pessoal. | 3 | 1 | Concluído |
-| 5 | Alta | Como colaborador, quero ter acesso aos materiais educativos que a plataforma disponibilizar para melhorar o meu desempenho na empresa. | 8 | 1 | Concluído |
-| 6 | Média | Como colaborador, quero ter acesso a métricas que indiquem o meu progresso individual para entender quais habilidades e conhecimentos desenvolvi com as aulas. | 3 | 1 | Concluído |
-| 7 | Baixa | Como colaborador, quero um espaço de interação com outros usuários para manter uma boa comunicação com o time. | 8 | 1 | Concluído |
-| 8 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
-| 9 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 5 | 2 | Pendente |
-| 10 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
-| 11 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano premium para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
-| 12 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano diamante para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
-| 13 | Média | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 8 | 2 | Pendente |
-| 14 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Pendente |
-| 15 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Pendente |
-| 16 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Pendente |
-| 17 | Média | Como administrador da EntreNova, quero que o sistema troque as trilhas de forma automática conforme o calendário para manter os conteúdos atualizados. | 5 | 3 | Pendente |
-| 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
-| 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
 
-____
+## 📼 Demonstrações
+
+################
+
+## 📊 Protótipo
+
+#################
 
 ## 📅 Sprints
 <a id="sprint"></a>
 
-| Sprint | Período |  Documentação |
-| ---- | ------ | ---------- |
-| 1 | 08/09 - 28/09 | [Documentação sprint 1](docs/sprints/sprint-1) | 
-| 2 | 06/10 - 26/10 | [Documentação sprint 2](docs/sprints/sprint-2) |  
-| 3 | 03/11 - 23/11 | [Documentação sprint 3](docs/sprints/sprint-3) |  
+🔜 **SPRINT 1:** Ainda não iniciada <br>
+🔜 **SPRINT 2:** Ainda não iniciada <br>
+🔜 **SPRINT 3:** Ainda não iniciada 
 
-___
 
-## 📋 DoR
-<a id="dor"></a>
 
-- Protótipo desenvolvido no Figma
-- Capacidade técnica avaliada
-- Tarefa estimada e priorizada
-- Requisitos claros e compreendidos
+## 🐙 Backlog do Produto
+<a id="backlog"></a>
 
-___
+| Rank | Prioridade | User Story | Sprint | Status |
+| :--: | :--------: | :----------------------------------------------------------: | :----: | :----: |
 
-## ✅ DoD
-<a id="dod"></a>
 
-- Código completo e revisado
-- Documentação atualizada
-- Validação do Product Owner
-- Testes unitários executados e aprovados
-___
+
 
 ## 🫧 SpaceTeam
 <a id="equipe"></a>
@@ -125,3 +77,21 @@ ___
 | Team Member    | Vinícius Lopes                     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7) |
 | Team Member    | João Álvaro Oliveira Silva         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
 | Team Member    | Pablo Rafael                       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709) |
+
+
+
+## 💫 Cliente
+<a id="cliente"></a>
+
+| Cliente | Empresa |
+| :-----: | :---: |
+| Marcella Arnulf | Entrenova|
+
+
+
+## 🏫 Docentes
+<a id="docentes"></a>
+
+| P² | M² |
+| :-------------: | :-------------: |
+| Prof° Fernando Massanori | Prof° Cláudio Lima |
