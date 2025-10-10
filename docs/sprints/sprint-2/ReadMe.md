@@ -25,12 +25,20 @@ ___
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Status |
 | ---- | ---------- | ---------- | ------------ | ------ | ------ |
-| 8 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
-| 9 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 5 | 2 | Pendente |
-| 10 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
-| 11 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano premium para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
-| 12 | Alta | Como administrador da EntreNova quero que o sistema disponibilize a compra de um plano diamante para oferecer funcionalidades e recursos extras às empresas que estejam interessadas. | 5 | 2 | Pendente |
-| 13 | Média | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 8 | 2 | Pendente |
+| 8 | Alta | Como usuário, quero acessar o assistente virtual a partir da landing page para iniciar uma conversa sobre os principais problemas enfrentados pela minha empresa atualmente. | 13 | 2 | Pendente |
+| 9 | Alta | Como usuário, quero que o site analise as respostas que enviei no primeiro formulário e durante a conversa com o assistente virtual para identificar os principais problemas da minha empresa. | 5 | 2 | Pendente |
+| 10 | Alta | Como usuário, quero que o assistente virtual gere um diagnóstico preciso que indique os pontos fortes e fracos da minha empresa para ter um entendimento completo do meu problema. | 8 | 2 | Pendente |
+| 11 | Alta | Como administrador da Entrenova, quero que o diagnóstico aprofundado seja disponibilizado somente após o pagamento para controlar o acesso aos materiais exclusivos. | 3 | 2 | Pendente |
+| 12 | Alta | Como administrador da Entrenova, quero que o formulário tenha um número maior de perguntas para gerar um diagnóstico mais assertivo. | 1 | 2 | Pendente |
+| 13 | Média | Como gerente de RH, quero cadastrar meus funcionários na plataforma para que eles acessem os conteúdos educativos. | 5 | 2 | Pendente |
+| 14 | Média | Como administrador da Entrenova, quero que a landing page seja clara e intuitiva para atrair mais assinantes. | 1 | 2 | Pendente |
+| 15 | Alta | Como administrador da Entrenova, quero que o sistema disponibilize a compra de um plano premium, para oferecer funcionalidades e recursos extras às empresas interessadas. | 3 | 2 | Pendente |
+| 16 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
+| 17 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 3 | 2 | Pendente |
+| 18 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
+| 19 | Baixa | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 3 | 2 | Pendente |
+| 20 | Baixa | Como administrador da Entrenova, quero atualizar o design do dashboard dos colaboradores para manter o padrão estético do site. | 1 | 2 | Pendente |
+| 21 | Baixa | Como usuário, quero que o site seja responsivo para que eu possa acessar a plataforma pelo tablet. | 3 | 2 | Pendente |
 
 ___
 
@@ -70,4 +78,3 @@ ___
 | Team Member    | Raul Germano Rosendo de Oliveira   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raul-Germano-Rosendo) |
 | Team Member    | Vinícius Lopes                     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7) |
 | Team Member    | João Álvaro Oliveira Silva         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
-| Team Member    | Pablo Rafael                       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709) |
