@@ -67,20 +67,20 @@ ____
 | 5 | Alta | Como colaborador, quero ter acesso aos materiais educativos que a plataforma disponibilizar para melhorar o meu desempenho na empresa. | 8 | 1 | Concluído |
 | 6 | Média | Como colaborador, quero ter acesso a métricas que indiquem o meu progresso individual para entender quais habilidades e conhecimentos desenvolvi com as aulas. | 3 | 1 | Concluído |
 | 7 | Baixa | Como colaborador, quero um espaço de interação com outros usuários para manter uma boa comunicação com o time. | 8 | 1 | Concluído |
-| 8 | Alta | Como usuário, quero acessar o assistente virtual a partir da landing page para iniciar uma conversa sobre os principais problemas enfrentados pela minha empresa atualmente. | 13 | 2 | Pendente |
-| 9 | Alta | Como usuário, quero que o site analise as respostas que enviei no primeiro formulário e durante a conversa com o assistente virtual para identificar os principais problemas da minha empresa. | 5 | 2 | Pendente |
-| 10 | Alta | Como usuário, quero que o assistente virtual gere um diagnóstico preciso que indique os pontos fortes e fracos da minha empresa para ter um entendimento completo do meu problema. | 8 | 2 | Pendente |
-| 11 | Alta | Como administrador da Entrenova, quero que o diagnóstico aprofundado seja disponibilizado somente após o pagamento para controlar o acesso aos materiais exclusivos. | 3 | 2 | Pendente |
-| 12 | Alta | Como administrador da Entrenova, quero que o formulário tenha um número maior de perguntas para gerar um diagnóstico mais assertivo. | 1 | 2 | Pendente |
-| 13 | Média | Como gerente de RH, quero cadastrar meus funcionários na plataforma para que eles acessem os conteúdos educativos. | 5 | 2 | Pendente |
-| 14 | Média | Como administrador da Entrenova, quero que a landing page seja clara e intuitiva para atrair mais assinantes. | 1 | 2 | Pendente |
-| 15 | Alta | Como administrador da Entrenova, quero que o sistema disponibilize a compra de um plano premium, para oferecer funcionalidades e recursos extras às empresas interessadas. | 3 | 2 | Pendente |
-| 16 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Pendente |
-| 17 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 3 | 2 | Pendente |
-| 18 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Pendente |
-| 19 | Baixa | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 3 | 2 | Pendente |
-| 20 | Baixa | Como administrador da Entrenova, quero atualizar o design do dashboard dos colaboradores para manter o padrão estético do site. | 1 | 2 | Pendente |
-| 21 | Baixa | Como usuário, quero que o site seja responsivo para que eu possa acessar a plataforma pelo tablet. | 3 | 2 | Pendente |
+| 8 | Alta | Como usuário, quero acessar o assistente virtual a partir da landing page para iniciar uma conversa sobre os principais problemas enfrentados pela minha empresa atualmente. | 13 | 2 | Concluído |
+| 9 | Alta | Como usuário, quero que o site analise as respostas que enviei no primeiro formulário e durante a conversa com o assistente virtual para identificar os principais problemas da minha empresa. | 5 | 2 | Concluído |
+| 10 | Alta | Como usuário, quero que o assistente virtual gere um diagnóstico preciso que indique os pontos fortes e fracos da minha empresa para ter um entendimento completo do meu problema. | 8 | 2 | Concluído |
+| 11 | Alta | Como administrador da Entrenova, quero que o diagnóstico aprofundado seja disponibilizado somente após o pagamento para controlar o acesso aos materiais exclusivos. | 3 | 2 | Concluído |
+| 12 | Alta | Como administrador da Entrenova, quero que o formulário tenha um número maior de perguntas para gerar um diagnóstico mais assertivo. | 1 | 2 | Concluído |
+| 13 | Média | Como gerente de RH, quero cadastrar meus funcionários na plataforma para que eles acessem os conteúdos educativos. | 5 | 2 | Concluído |
+| 14 | Média | Como administrador da Entrenova, quero que a landing page seja clara e intuitiva para atrair mais assinantes. | 1 | 2 | Concluído |
+| 15 | Alta | Como administrador da Entrenova, quero que o sistema disponibilize a compra de um plano premium, para oferecer funcionalidades e recursos extras às empresas interessadas. | 3 | 2 | Concluído |
+| 16 | Alta | Como gerente de RH, quero visualizar os diagnósticos gerados antes da contratação do plano e realizar reavaliações sobre eles conforme o necessário para manter as informações da minha empresa atualizadas. | 3 | 2 | Concluído |
+| 17 | Alta | Como gerente de RH, quero ter acesso a indicadores de engajamento das trilhas para poder acompanhar os resultados da minha equipe. | 3 | 2 | Concluído  |
+| 18 | Alta | Como gerente de RH, quero que o sistema gere um relatório contendo informações sobre o progresso dos colaboradores nas trilhas para gerenciar as atividades da minha equipe. | 3 | 2 | Concluído |
+| 19 | Baixa | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 3 | 2 | Concluído |
+| 20 | Baixa | Como administrador da Entrenova, quero atualizar o design do dashboard dos colaboradores para manter o padrão estético do site. | 1 | 2 | Concluído |
+| 21 | Baixa | Como usuário, quero que o site seja responsivo para que eu possa acessar a plataforma pelo tablet. | 3 | 2 | Concluído |
 | 22 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Pendente |
 | 23 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Pendente |
 | 24 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Pendente |
