@@ -2,7 +2,7 @@
 # EntrenovaFlix
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/0172c881-902b-4b82-b01a-fa3a1f033c75" alt="Pixel Art" align="center" width="335">
+<img src="docs/assets/protótipo-figma/Imagens-gerais/Brown and White Modern Welcome Banner (2).png" alt="Pixel Art" align="center" width="auto">
 
 ## Spaceline
 </div>
