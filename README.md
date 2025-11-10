@@ -81,12 +81,16 @@ ____
 | 19 | Baixa | Como administrador da EntreNova quero que o sistema permita que as empresas alterem o plano escolhido a qualquer momento para gerar autonomia aos contratantes conforme suas necessidades. | 3 | 2 | Concluído |
 | 20 | Baixa | Como administrador da Entrenova, quero atualizar o design do dashboard dos colaboradores para manter o padrão estético do site. | 1 | 2 | Concluído |
 | 21 | Baixa | Como usuário, quero que o site seja responsivo para que eu possa acessar a plataforma pelo tablet. | 3 | 2 | Concluído |
-| 22 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Pendente |
-| 23 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Pendente |
-| 24 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Pendente |
-| 25 | Média | Como administrador da EntreNova, quero que o sistema troque as trilhas de forma automática conforme o calendário para manter os conteúdos atualizados. | 5 | 3 | Pendente |
-| 26 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
-| 27 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
+| 22 | Alta | Como administrador da Entrenova, quero que o dashboard contenha um painel com dados gerais de uso para que eu possa monitorar a atividade dos colaboradores. | 3 | 3 | Em andamento |
+| 23 | Alta | Como administrador da Entrenova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes.  | 8 | 3 | Em andamento |
+| 24 | Alta | Como administrador da Entrenova, quero ter acesso a indicadores de engajamento dos usuários e dados de uso dos recursos para que eu possa manter controle sobre o uso da plataforma. | 5 | 3 | Em andamento |
+| 25 | Alta | Como administrador da Entrenova, quero que os colaboradores tenham acesso a um formulário no primeiro acesso à plataforma para mapear seu perfil e garantir uma experiencia personalizada e mais acolhedora.  | 5 | 3 | Em andamento |
+| 26 | Baixa | Como gerente de RH, quero ter acesso a métricas de engajamento de cada uma das trilhas ativas para monitorar a atividade dos colaboradores.  | 3 | 3 | Em andamento |
+| 27 | Baixa | Como gerente de RH, quero que o dashboard apresente o nível de interação com cada atividade para monitorar o uso dos recursos pelos colaboradores.  | 1 | 3 | Em andamento |
+| 28 | Média | Como desenvolvedor, quero aplicar melhorias no design do site para aprimorar a experiência do usuário. | 3 | 3 | Em andamento |
+| 29 | Média | Como colaborador, quero um espaço para dar feedbacks sobre as trilhas para que os conteúdos possam ser melhorados continuamente. | 3 | 3 | Em andamento |
+| 30 | Média | Como administrador da Entrenova, quero receber feedbacks dos usuários sobre o uso das trilhas para manter uma boa gestão dos conteúdos e identificar o que funciona e o que precisa ser adaptado. | 3 | 3 | Em andamento |
+| 31 | Baixa | Como usuário do site, quero que a interface seja ajustada conforme o plano escolhido para gerar uma experiência de uso personalizada. | 8 | 3 | Em andamento |
 
 ____
 
