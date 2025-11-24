@@ -10,7 +10,7 @@
   <a href = "#equipe"> Equipe </a>       
 </p>
 
-> Status da Sprint: Em andamento 🚲
+> Status da Sprint: Concluído ✔️
 
 ___
 
@@ -25,12 +25,12 @@ ___
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Status |
 | ---- | ---------- | ---------- | ------------ | ------ | ------ |
-| 14 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Pendente |
-| 15 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Pendente |
-| 16 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Pendente |
-| 17 | Média | Como administrador da EntreNova, quero que o sistema troque as trilhas de forma automática conforme o calendário para manter os conteúdos atualizados. | 5 | 3 | Pendente |
-| 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Pendente |
-| 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Pendente |
+| 14 | Alta | Como administrador da EntreNova, quero visualizar quais empresas estão cadastradas na plataforma e os seus respectivos diagnósticos para manter uma boa gestão das empresas contratantes. | 3 | 3 | Concluído |
+| 15 | Alta | Como administrador da EntreNova, quero controlar as assinaturas recebidas para manter uma boa gestão financeira da empresa. | 3 | 3 | Concluído |
+| 16 | Média | Como administrador da EntreNova, quero editar e atualizar o conteúdo das trilhas conforme o necessário para manter uma entrega personalizada e de qualidade. | 8 | 3 | Concluído |
+| 17 | Média | Como administrador da EntreNova, quero que o sistema troque as trilhas de forma automática conforme o calendário para manter os conteúdos atualizados. | 5 | 3 | Concluído |
+| 18 | Alta | Como administrador da EntreNova, quero ter acesso a indicadores de engajamento dos usuários para manter controle sobre o uso da plataforma. | 2 | 3 | Concluído |
+| 19 | Alta | Como administrador da EntreNova, quero monitorar as empresas ativas e sua atividade na plataforma para gerenciar o acesso aos conteúdos e o engajamento. | 5 | 3 | Concluído |
 
 ___
 
@@ -70,4 +70,3 @@ ___
 | Team Member    | Raul Germano Rosendo de Oliveira   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raul-Germano-Rosendo) |
 | Team Member    | Vinícius Lopes                     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7) |
 | Team Member    | João Álvaro Oliveira Silva         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
-| Team Member    | Pablo Rafael                       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709) |
