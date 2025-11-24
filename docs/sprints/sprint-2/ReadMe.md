@@ -10,7 +10,7 @@
   <a href = "#equipe"> Equipe </a>       
 </p>
 
-> Status da Sprint: Em andamento 🚲
+> Status da Sprint: Concluído ✔️
 
 ___
 
